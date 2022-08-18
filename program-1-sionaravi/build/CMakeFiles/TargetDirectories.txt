@@ -1,0 +1,17 @@
+/Users/sionaravi/program-1-sionaravi/build/CMakeFiles/install/strip.dir
+/Users/sionaravi/program-1-sionaravi/build/CMakeFiles/install.dir
+/Users/sionaravi/program-1-sionaravi/build/CMakeFiles/list_install_components.dir
+/Users/sionaravi/program-1-sionaravi/build/CMakeFiles/rebuild_cache.dir
+/Users/sionaravi/program-1-sionaravi/build/CMakeFiles/edit_cache.dir
+/Users/sionaravi/program-1-sionaravi/build/CMakeFiles/install/local.dir
+/Users/sionaravi/program-1-sionaravi/build/CMakeFiles/test.dir
+/Users/sionaravi/program-1-sionaravi/build/CMakeFiles/runUnitTests.dir
+/Users/sionaravi/program-1-sionaravi/build/googletest/CMakeFiles/list_install_components.dir
+/Users/sionaravi/program-1-sionaravi/build/googletest/CMakeFiles/install/local.dir
+/Users/sionaravi/program-1-sionaravi/build/googletest/CMakeFiles/test.dir
+/Users/sionaravi/program-1-sionaravi/build/googletest/CMakeFiles/rebuild_cache.dir
+/Users/sionaravi/program-1-sionaravi/build/googletest/CMakeFiles/edit_cache.dir
+/Users/sionaravi/program-1-sionaravi/build/googletest/CMakeFiles/install/strip.dir
+/Users/sionaravi/program-1-sionaravi/build/googletest/CMakeFiles/install.dir
+/Users/sionaravi/program-1-sionaravi/build/googletest/CMakeFiles/gtest_main.dir
+/Users/sionaravi/program-1-sionaravi/build/googletest/CMakeFiles/gtest.dir
